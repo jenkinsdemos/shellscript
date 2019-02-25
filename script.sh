@@ -1,2 +1,2 @@
 #!/bin/bash
-echo scriptexecuted > demofile.txt
+echo scriptexecuted >> demofile.txt
